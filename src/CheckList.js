@@ -22,3 +22,6 @@ class CheckList extends Component {
 		)
 	}
 }
+
+
+export default CheckList;
