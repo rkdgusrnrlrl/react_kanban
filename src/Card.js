@@ -2,7 +2,8 @@
  * Created by Administrator on 2016-07-10.
  */
 import React, {Component} from 'react';
-import CheckList from './CheckList'
+import CheckList from './CheckList';
+import marked from 'marked';
 
 class Card extends Component {
 	constructor(){
